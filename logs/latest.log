@@ -1,49 +1,37 @@
-[21:51:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:51:28] [main/INFO]: Found new data pack file/bukkit, loading it automatically
-[21:51:28] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[21:51:29] [Worker-Main-1/INFO]: Loaded 7 recipes
-[21:51:31] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[21:51:31] [Server thread/INFO]: Loading properties
-[21:51:31] [Server thread/INFO]: This server is running Paper version git-Paper-492 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[21:51:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:51:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:51:31] [Server thread/INFO]: Debug logging is disabled
-[21:51:31] [Server thread/INFO]: Default game type: SURVIVAL
-[21:51:31] [Server thread/INFO]: Generating keypair
-[21:51:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:51:31] [Server thread/INFO]: Using epoll channel type
-[21:51:32] [Server thread/INFO]: Preparing level "world"
-[21:51:36] [Server thread/WARN]: Unable to find spawn biome
-[21:51:38] [Server thread/WARN]: Unable to find spawn biome
-[21:51:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:51:39] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[21:51:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:51:39] [Server thread/INFO]: Time elapsed: 324 ms
-[21:51:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:51:39] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[21:51:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:51:39] [Server thread/INFO]: Time elapsed: 280 ms
-[21:51:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:51:40] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[21:51:40] [Server thread/INFO]: Time elapsed: 738 ms
-[21:51:40] [Server thread/INFO]: Starting remote control listener
-[21:51:40] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
-[21:51:40] [Server thread/INFO]: Running delayed init tasks
-[21:51:40] [Server thread/INFO]: Done (9.300s)! For help, type "help"
-[21:51:40] [Server thread/INFO]: Timings Reset
-[22:03:26] [Server thread/INFO]: Stopping the server
-[22:03:26] [Server thread/INFO]: Stopping server
-[22:03:26] [Server thread/INFO]: Saving players
-[22:03:26] [Server thread/INFO]: Saving worlds
-[22:03:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:03:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[22:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:03:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[22:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:03:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:03:26] [Server thread/INFO]: Flushing Chunk IO
-[22:03:26] [Server thread/INFO]: Closing Thread Pool
-[22:03:26] [Server thread/INFO]: Closing Server
+[22:17:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:17:39] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:17:40] [Worker-Main-1/INFO]: Loaded 7 recipes
+[22:17:41] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[22:17:41] [Server thread/INFO]: Loading properties
+[22:17:41] [Server thread/INFO]: This server is running Paper version git-Paper-492 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[22:17:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:17:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:17:42] [Server thread/INFO]: Debug logging is disabled
+[22:17:42] [Server thread/INFO]: Default game type: SURVIVAL
+[22:17:42] [Server thread/INFO]: Generating keypair
+[22:17:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:17:42] [Server thread/INFO]: Using epoll channel type
+[22:17:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:17:42] [Server thread/INFO]: Preparing level "world"
+[22:17:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:17:43] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[22:17:43] [Server thread/INFO]: Preparing spawn area: 0%
+[22:17:43] [Server thread/INFO]: Time elapsed: 451 ms
+[22:17:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:17:43] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[22:17:45] [Server thread/INFO]: Time elapsed: 1966 ms
+[22:17:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:17:45] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[22:17:46] [Server thread/INFO]: Time elapsed: 583 ms
+[22:17:46] [Server thread/INFO]: Starting remote control listener
+[22:17:46] [Server thread/WARN]: No rcon password set in server.properties, rcon disabled!
+[22:17:46] [Server thread/INFO]: Running delayed init tasks
+[22:17:46] [Server thread/INFO]: Done (4.654s)! For help, type "help"
+[22:17:46] [Server thread/INFO]: Timings Reset
+[22:17:47] [Server thread/INFO]: Stopping the server
+[22:17:47] [Server thread/INFO]: Stopping server
+[22:17:47] [Server thread/INFO]: Saving players
+[22:17:47] [Server thread/INFO]: Saving worlds
+[22:17:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:17:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
