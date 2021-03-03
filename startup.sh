@@ -1,1 +1,1 @@
-docker run -d --name mc-ftb -e EULA=TRUE -e TYPE=FTBA -e FTB_MODPACK_ID=79 -p 25565:25565 itzg/minecraft-server:multiarch
+docker run -d --rm -p 25565:25565 -e EULA=TRUE -e INIT_MEMORY=8g -e MAX_MEMORY=14g -e USE_AIKAR_FLAGS=true -e VIEW_DISTANCE=6 -e GUI=FALSE -e TYPE=FTBA -e FTB_MODPACK_ID=79 -v /src/minecraft/world:/data --name mc itzg/minecraft-server
