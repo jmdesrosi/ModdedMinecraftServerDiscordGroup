@@ -1,0 +1,14 @@
+**/logs/
+**/*.jar
+**/*.zip
+!**/plugins/*.jar
+**/eula.txt
+**/terraform
+**/*.tfplan
+**/*.tfstate*
+**/localrc.sh
+**/.terraform/
+**/inventory
+**/*.retry
+**/node_modules/
+**/crash-reports/
