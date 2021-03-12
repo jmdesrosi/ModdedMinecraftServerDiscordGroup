@@ -3,7 +3,7 @@
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: 00_default.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: 01_unification.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: 02_jei.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 2ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 3ms
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [recipeevent | crafttweaker]]
@@ -23,7 +23,7 @@
 [INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Dimensional Shard
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: 02_jei.zs}
 [INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:facade>.withTag({damage: 0, item: "minecraft:stone"}): Check item description using JEI recipe lookup for information on crafting.
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 623ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 561ms
 [POSTINITIALIZATION][SERVER][INFO] Adding Grinder Entry for Charged Certus Quartz Crystal
 [POSTINITIALIZATION][SERVER][INFO] Removing Shapeless recipes for <actuallyadditions:item_misc:5>
 [POSTINITIALIZATION][SERVER][INFO] Removing 1 Shapeless recipes.
@@ -124,9 +124,9 @@
 [AVAILABLE][SERVER][INFO] Altering Casting Recipe(s) for <tconstruct:metal>
 [AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <actuallyadditions:item_dust:7> * 2
 [AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <actuallyadditions:item_dust:7>
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@163be2a9"
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@2fb40cba"
-[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@78374fb4"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@3cb44b7e"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@3dcd023d"
+[AVAILABLE][SERVER][INFO] Adding 1 Crusher Recipe(s) for "net.minecraft.item.crafting.Ingredient@33a01a5e"
 [AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <rftools:dimensional_shard> * 3
 [AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <rftools:dimensional_shard> * 3
 [AVAILABLE][SERVER][INFO] Altering Crusher Recipe(s) for <rftools:dimensional_shard> * 3
