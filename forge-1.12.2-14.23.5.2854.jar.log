@@ -1,0 +1,10 @@
+JVM info: Private Build - 1.8.0_282 - 25.282-b08
+java.net.preferIPv4Stack=true
+Found java version 1.8.0_282
+Exception in thread "main" 
+java.awt.AWTError: Assistive Technology not found: org.GNOME.Accessibility.AtkWrapper
+	at java.awt.Toolkit.loadAssistiveTechnologies(Toolkit.java:807)
+	at java.awt.Toolkit.getDefaultToolkit(Toolkit.java:886)
+	at javax.swing.UIManager.getSystemLookAndFeelClassName(UIManager.java:611)
+	at net.minecraftforge.installer.SimpleInstaller.launchGui(SimpleInstaller.java:162)
+	at net.minecraftforge.installer.SimpleInstaller.main(SimpleInstaller.java:143)
