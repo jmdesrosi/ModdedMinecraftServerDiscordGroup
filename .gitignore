@@ -1,8 +1,5 @@
 **/logs/
-**/*.jar
-!**/mods/*.jar
 **/*.zip
-!**/plugins/*.jar
 **/eula.txt
 **/terraform
 **/*.tfplan
